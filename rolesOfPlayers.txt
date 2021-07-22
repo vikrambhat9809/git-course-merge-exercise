@@ -6,3 +6,7 @@ keeper
 bowler
 bowler
 bowler
+spinner
+batsman
+keeper
+bowler

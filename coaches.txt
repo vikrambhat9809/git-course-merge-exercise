@@ -4,3 +4,6 @@ arthur
 silverwood
 langer
 amre
+kallis
+smith
+amla
